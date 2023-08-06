@@ -21,7 +21,7 @@
 
 
 <details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
+  <summary><h2> Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@almightychica"><img src="https://holopin.me/almightychica" alt="@almightychica&#39;s Holopin board"></a></p>
 </details>
