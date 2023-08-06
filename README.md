@@ -4,6 +4,7 @@
 
 
 ### Novice Testing specialist. Python Tamer
+I'm glad you checked out my profile. I'm learning to program, but most of all I'm testing different applications and looking for bugs. I take part in the creation of useful software for users.
 
 ### Few words about myself:
 
