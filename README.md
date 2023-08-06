@@ -1,6 +1,6 @@
 ### Hi there, my name is Anastasia! 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://www.codewars.com/users/almighty.chica@gmail.com/badges/micro
 
 
 
