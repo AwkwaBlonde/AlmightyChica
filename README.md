@@ -16,3 +16,12 @@
 ### Languages and Tools:
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@almightychica"><img src="https://holopin.me/almightychica" alt="@almightychica&#39;s Holopin board"></a></p>
+</details>
