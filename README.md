@@ -22,13 +22,6 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 <a href="https://vk.com/almightychica" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" width="36" height="36" /></a>  
 
 
-<details> 
-  <summary><h2> Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@almightychica"><img src="https://holopin.me/almightychica" alt="@almightychica&#39;s Holopin board"></a></p>
-</details>
-
-
 
 #
 
