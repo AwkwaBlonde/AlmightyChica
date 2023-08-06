@@ -21,6 +21,15 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 <p align="left"> 
 <a href="https://vk.com/almightychica" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" width="36" height="36" /></a>  
 
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightychica&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almightychica&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
 
 #
