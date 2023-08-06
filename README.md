@@ -27,3 +27,14 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 
   <p><a href="https://holopin.io/@almightychica"><img src="https://holopin.me/almightychica" alt="@almightychica&#39;s Holopin board"></a></p>
 </details>
+
+
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
