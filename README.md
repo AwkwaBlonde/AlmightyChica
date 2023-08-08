@@ -51,7 +51,7 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightyholton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightychica&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </details>
 
 #
@@ -63,7 +63,7 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 ### Support Me:
 If you suddenly liked some of my projects, then you can thank me and buy me a cup of coffee.
 
-<a href="https://www.buymeacoffee.com/AlmightyHolton"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/AlmightyChica"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
