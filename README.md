@@ -53,6 +53,13 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightychica&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+#
+
+<div align="center">
+
+</div>
+
+
 
 #
 
@@ -60,5 +67,5 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
+</div>  
 
