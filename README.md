@@ -64,9 +64,6 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 If you suddenly liked some of my projects, then you can thank me and buy me a cup of coffee.
 
 <a href="https://www.buymeacoffee.com/AlmightyChica"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
 
 #
