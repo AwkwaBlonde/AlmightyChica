@@ -58,4 +58,13 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 </div>
 
 
+</p>
 
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
