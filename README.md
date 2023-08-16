@@ -43,24 +43,4 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 
 <div align="center">
 
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightychica&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
-### Support Me:
-If you suddenly liked some of my projects, then you can thank me and buy me a cup of coffee.
-
-<a href="https://www.buymeacoffee.com/AlmightyChica"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
 </div>
