@@ -53,12 +53,6 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almightychica&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-#
-
-<div align="center">
-
-</div>
-
 ### Support Me:
 If you suddenly liked some of my projects, then you can thank me and buy me a cup of coffee.
 
