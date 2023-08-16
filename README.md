@@ -49,10 +49,14 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightychica&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almightychica&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almightychica&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almightychica&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
+
+#
+
+<div align="center">
+
+</div>
 
 ### Support Me:
 If you suddenly liked some of my projects, then you can thank me and buy me a cup of coffee.
