@@ -43,7 +43,6 @@ I'm glad you checked out my profile. I'm learning to program 🐍, but most of a
 
 <div align="center">
 
-</div>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
